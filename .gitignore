@@ -138,3 +138,10 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# data and images
+*.zip
+*.jpg
+Cat_Dog_data/
+Cat_Dog_data.zip
+data/
