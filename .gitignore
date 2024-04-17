@@ -145,3 +145,4 @@ cython_debug/
 Cat_Dog_data/
 Cat_Dog_data.zip
 data/
+.DS_Store
